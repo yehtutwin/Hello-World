@@ -1,4 +1,2 @@
-Hello-World
-===========
-
-My first Repository
+OK...
+This is testing git
